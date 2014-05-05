@@ -1,6 +1,8 @@
 Mindstorms
 ==========
 ![Time Lapse Robot Ver. 0.2 with a Sony NEX-6](https://farm8.staticflickr.com/7426/13925203440_b1784fbb0e_c.jpg "Time Lapse Robot Ver. 0.2 with a Sony NEX-6")
+
+
 Ver. 0.2
 - Changed drive mode to be tank drive instead of wheeled
 - WIP Shutter actuation
